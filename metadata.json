@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Chat",
+  "description": "A production-level real-time messaging application with Clerk auth, Convex backend, and shadcn/ui.",
+  "requestFramePermissions": []
+}
